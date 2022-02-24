@@ -1,0 +1,64 @@
+{
+    "Views": [
+        {
+            "headerText": "I can read your mind",
+            "nextButton": "nextButton.style.display = 'none'",
+            "helperText": "help.style.display = 'none'",
+            "navButton": "navButton.innerText = 'Go'"
+        },
+
+        {
+            "headerText": "Pick a number from 01 - 99",
+            "nextButton": "nextButton.style.display = 'block'",
+            "nextButtonText": "nextButton.innerText = 'NEXT'",
+            "helperText": "when you have your number click next",
+            "navButton": "navButton.innerText = '@'"
+        },
+
+        {
+            "headerText": "Add both digits together to get a new number",
+            "nextButton": "nextButton.style.display = 'block'",
+            "nextButtonText": "nextButton.innerText = 'NEXT'",
+            "helperText": "Ex: 14 is 1 + 4 = 5",
+            "navButton": "navButton.innerText = '@'"
+        },
+
+        {
+            "headerText": "Subtract your new number from the original number",
+            "nextButton": "nextButton.style.display = 'block'",
+            "nextButtonText": "nextButton.innerText = 'NEXT'",
+            "helperText": "Ex: 14 - 5 = 9 click next to proceed",
+            "navButton": "navButton.innerText = '@'"
+        },
+
+        {
+            "headerText": null,
+            "nextButton": "nextButton.style.display = 'block'",
+            "nextButtonText": "nextButton.innerText = 'REVEAL'",
+            "helperText": "Find your new number. Note the symbol beside the number",
+            "navButton": "navButton.innerText = '@'"
+        },
+
+        {
+            "headerText": "Add both digits together to get a new number",
+            "nextButton": "nextButton.style.display = 'block'",
+            "nextButtonText": "nextButton.innerText = 'NEXT'",
+            "helperText": "Ex: 14 is 1 + 4 = 5",
+            "navButton": "navButton.innerText = '@'"
+        }
+    ]
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
